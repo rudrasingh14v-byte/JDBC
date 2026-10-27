@@ -19,3 +19,4 @@ Java Development Kit (JDK)
 Oracle Database with an employee table
 Oracle JDBC driver compatible with your JDK
 VS Code or another Java IDE
+![Uploading image.png…]()
